@@ -1,1 +1,3 @@
 My fist line in project
+London is the capital of GB
+Moscow is the capital of Russia
